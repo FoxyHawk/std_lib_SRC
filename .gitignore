@@ -1,3 +1,6 @@
 # Untracked project files
 *.pro
 fp-lib-table
+
+# Untracked documentation folder
+Doc/

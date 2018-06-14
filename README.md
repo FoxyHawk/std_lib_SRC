@@ -9,11 +9,11 @@ Standard footprints with 2mm pads and 0.4mm inner
 - [x] Capacity 2.5mm width
 - [ ] Potentiometer (pads diameter needed)
 - [x] DIP socket (from 4 to 10 pins)
-- [x] Conn 1x01-04
-- [x] Conn 2x01-04
+- [x] Conn 1x01-08
+- [x] Conn 2x01-08
 - [ ] Conn BNC
 - [ ] Conn Banana
-- [ ] Support
+- [x] Support
 
 ## Install
 

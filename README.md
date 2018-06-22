@@ -22,6 +22,9 @@ Connectors :
 - [x] Conn Banana
 - [x] Support
 
+Others :
+- [x] Transistor (TO-92)
+
 ## Install
 
-todo
+todo 

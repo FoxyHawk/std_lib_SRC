@@ -8,7 +8,6 @@ Passive components :
 - [x] Capacity 2mm width
 - [x] Capacity 2.5mm width
 - [x] Capacity 4.0mm width
-- [x] Diode
 - [ ] Potentiometer (pads diameter needed)
 - [x] Resistor
 
@@ -23,6 +22,9 @@ Connectors :
 - [x] Support
 
 Others :
+- [x] Diode
+- [x] LED
+- [x] RJ-12 + RJ-45
 - [x] Transistor (TO-92)
 
 ## Install
